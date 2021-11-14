@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               width: 55.0,
                               height: 55.0,
                               child: Image.network(
-                                "https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo-2006.png",
+                                "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/1200px-Netflix_2015_N_logo.svg.png",
                               ),
                             ),
                           ]),
@@ -270,7 +270,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Container(
                       width: 120.0,
                       child: Image.network(
-                        "https://www.tjtoday.org/wp-content/uploads/2018/02/c245fb206fecea20e4f18e26dc8fa74aae6f80b5.jpg",
+                        "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
                         fit: BoxFit.fill,
                       ),
                       decoration: BoxDecoration(
@@ -331,7 +331,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Container(
                       width: 120.0,
                       child: Image.network(
-                        "https://www.tvguide.com/a/img/catalog/provider/1/2/1-8832059326.jpg",
+                        "https://upload.wikimedia.org/wikipedia/en/d/dd/Squid_Game.jpg",
                         fit: BoxFit.fill,
                       ),
                       decoration: BoxDecoration(
