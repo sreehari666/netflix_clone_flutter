@@ -1,16 +1,11 @@
-# netflix_clone_flutter
+# Netflix clone using Flutter
 
-A new Flutter project.
 
-## Getting Started
+This project is a clone of Netflix ui and it is developed using flutter.
 
-This project is a starting point for a Flutter application.
+This project is live at https://sreehari666.github.io/netflix_clone_web/#/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![photo_2022-09-17_21-55-57](https://user-images.githubusercontent.com/61986594/190866772-b788a448-db5d-4778-a2cb-896f93805cba.jpg)
